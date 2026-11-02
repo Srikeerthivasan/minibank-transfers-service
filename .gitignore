@@ -1,0 +1,14 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.env
+.env.*
+!.env.example
+*.log
+*.pem
+*.key
+.DS_Store
+socket_*
